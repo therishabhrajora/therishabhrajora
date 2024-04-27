@@ -1,16 +1,28 @@
-### Hi there 👋
+<marquee>welcome to my profile</marquee>
+
+
+# 🪧 Full Stack Developer with Java ✨
+
+🔭 Frontend : HTML , CSS , JavaScript ,React
+
+🌱 Libraries : Bootstrap, TailwindCSS
+
+<!-- 👨‍💻 Backend : PHP / Laravel, codeIgniter, Node.js & Express -->
+
+<!--💬 Database : MySQL, MongoDB, PostgreSQL, SQLite-->
+
+📫 Languages : English , Hindi
+
+<hr>
+
+<img src="" width="300px">
+
+<hr>
 
 <!--
-**therishabhrajora/therishabhrajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="" width="49%"><img src="coder.gif" width="49%" height="300px">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
+
+<hr>-->

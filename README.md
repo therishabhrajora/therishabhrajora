@@ -15,7 +15,7 @@
 
 <hr>
 
-<img src="" width="300px">
+<img src="IMG_20230918_133842_650-modified.png" width="300px">
 
 <hr>
 
